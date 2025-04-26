@@ -180,3 +180,22 @@ class MyHomePage extends StatelessWidget {
     );
   }
 }
+
+/*
+Explanation of Key Concepts:
+MaterialApp: The root widget that sets up the app theme and provides material design widgets.
+
+Scaffold: Provides the basic structure for a material design app, including AppBar, body, etc.
+
+AppBar: The top navigation bar that typically contains the title and actions.
+
+Text: Widget that displays text with specified styling.
+
+Container: A box that can be decorated and contains other widgets. It can have padding, margins, backgrounds, etc.
+
+Row: Arranges its children horizontally in a row.
+
+Column: Arranges its children vertically in a column.
+
+Image: Displays images from various sources (network, assets, file, etc.).
+*/
